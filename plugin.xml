@@ -23,6 +23,7 @@
     <config-file parent="/*" target="config.xml">
       <feature name="VolumeControl">
         <param name="ios-package" value="VolumeControl" />
+        <param name="onload" value="true" />
       </feature>
     </config-file>
     <source-file src="src/ios/VolumeControl.m" />
