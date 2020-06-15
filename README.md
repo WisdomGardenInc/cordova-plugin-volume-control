@@ -1,5 +1,9 @@
 # [Cordova Volume Control](https://github.com/jlorente/cordova-plugin-volume-control) [![Release](https://img.shields.io/npm/v/cordova-volume-control.svg?style=flat)](https://github.com/jlorente/cordova-plugin-volume-control/releases)
 
+## WG Customization -- start
+This plugin for iOS has now been modified and be able to used for AppStore. The `AVSystemController.h` has been removed and add MPVolumeView instead. 
+## WG Customization -- end
+
 This plugin provides a simple way to interact with the volume of your `UIWebView`.
 
 * This plugin uses private `AVSystemController.h` APIs and can't be used for AppStore apps.
