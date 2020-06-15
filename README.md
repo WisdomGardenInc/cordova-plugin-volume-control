@@ -1,7 +1,7 @@
 # [Cordova Volume Control](https://github.com/jlorente/cordova-plugin-volume-control) [![Release](https://img.shields.io/npm/v/cordova-volume-control.svg?style=flat)](https://github.com/jlorente/cordova-plugin-volume-control/releases)
 
 ## WG Customization -- start
-This plugin for iOS has now been modified and be able to used for AppStore. The `AVSystemController.h` has been removed and add MPVolumeView instead. 
+This plugin for iOS has now been modified and be able to used for AppStore. The `AVSystemController.h` has been removed and add `MPVolumeView` instead. However, although we've searched a lot and tried almost every method, we still can't hide the volume slider bar when adjust the volume programmatically. If you got any idea, feel free to fork and try.
 ## WG Customization -- end
 
 This plugin provides a simple way to interact with the volume of your `UIWebView`.
