@@ -16,7 +16,7 @@
      <engine name="cordova" version=">=3.0.0"/>
   </engines>
   <js-module name="VolumeControl" src="www/VolumeControl.js">
-    <clobbers target="cordova.plugins.VolumeControl" />
+    <clobbers target="VolumeControl" />
   </js-module>
   <platform name="ios">
 		<framework src="MediaPlayer.framework" />
