@@ -1,6 +1,7 @@
 {
   "name": "cordova-plugin-volume-control",
   "version": "0.1.8",
+  "wgVersoin": "1",
   "description": "Cordova Volume Control Plugin",
   "cordova": {
     "id": "cordova-plugin-volume-control",

@@ -1,3 +1,12 @@
+.travis.yml
+
+# Logs
+logs
+*.log
+npm-debug.log*
+package-upload.js
+package-upload.sh
+
 !.gitignore
 .DS_Store
 *.tgz
